@@ -1,0 +1,38 @@
+.MainWrapper{
+    text-align: center;
+}
+
+.TheMainHeading{
+    text-align: center;
+    color: white
+}
+.TheMainPara{
+    color: white;
+}
+.TimerHeading{
+    color: white;
+}
+.AlphaWrapper{
+    background-color: white;
+    width: 96vw;
+    height: 15vh;
+    margin: 0 auto;
+    border-radius: 20px;
+    color: green;
+    font-size: 4rem;
+    font-weight: 800px;
+
+}
+.AlphaDisplay{
+    
+    height: 100%;
+    width: 100%;
+}
+.AlphaDisplayLetter{
+    
+    height: 100%;
+    width: 100%;
+}
+
+
+  
